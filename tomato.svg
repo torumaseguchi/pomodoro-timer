@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Tomato</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#E74C3C" cx="256" cy="276" r="200"></circle>
+        <path d="M256,76 C230,76 210,56 200,36 C190,16 180,6 160,6 C140,6 130,26 140,46 C150,66 170,76 190,76 L256,76 Z" fill="#27AE60"></path>
+        <path d="M256,76 C282,76 302,56 312,36 C322,16 332,6 352,6 C372,6 382,26 372,46 C362,66 342,76 322,76 L256,76 Z" fill="#27AE60"></path>
+    </g>
+</svg>
